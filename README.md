@@ -13,7 +13,7 @@ This repository contains code, exercises and solutions from the book "The Joy of
 
 소스 코드는 다음 두 가지 방법으로 다운로드할 수 있습니다.
 
-- [코틀린을 다루는 기술]https://github.com/gilbutITbook/080208) 페이지에서 _Download ZIP_ 버튼을 클릭하하여 아카이브를 다운로드한 다음, 다운로드한 디렉토리에서 압축을 풉니다.
+- [코틀린을 다루는 기술](https://github.com/gilbutITbook/080208) 페이지에서 _Download ZIP_ 버튼을 클릭하하여 아카이브를 다운로드한 다음, 다운로드한 디렉토리에서 압축을 풉니다.
 - Git을 사용하여 소스 코드를 복제 할 수 있습니다. 이 방법을 사용하려면 PC에 Git이 설치되어 있어야 합니다.
 
 ## 인텔리J에서 임포트하기
