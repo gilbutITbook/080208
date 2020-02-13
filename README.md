@@ -1,5 +1,6 @@
-This repository contains code, exercises and solutions from the book "The Joy of Kotlin".
+# <코틀린을 다루는 기술>
 
+이 저장소는 <코틀린을 다루는 기술>의 소스 코드를 담고 있습니다.
 
 ## 소스 코드 실행 방법
 
