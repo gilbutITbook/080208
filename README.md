@@ -33,7 +33,7 @@ To import the project into IntelliJ:
  
  - Click _Finish_ and wait until import is complete
 
-### Running a test
+### 테스트 방법
 
 Each exercise as has a corresponding test that will fail until you implement a valid solution. To test you solution, simply run the corresponding test:
 
@@ -41,11 +41,11 @@ Each exercise as has a corresponding test that will fail until you implement a v
 
 - Right click on the little green circle left to the class name an select _Run <test name>.
 
-## Using Gradle to run the test
+## 그레이들로 테스트하는 방법
 
 If you do not want to use IntelliJ, you can use any text editor to create an implementation for an exercise. Then you can run the corresponding test using Gradle from the command line. If you chose this solution, I suppose you will already have Gradle setup. If not, just download the current version from the Gradle site and install it.
 
-### Running a single test
+### 단일 테스트 실행
 
 The command to use to run all tests with Gradle is:
 
@@ -113,7 +113,7 @@ Once the problem is fixed, the test succeeds and you get the following report:
 
 ![Successful Test](graphics/successTest03.png)
 
-## Doing the exercises
+## 연습문제 실행
 
 For each chapter, you will find two modules called `chaptername-exercises` and `chaptername-solutions` . Go to the first exercise in
 the `src/main/kotlin` hierarchy. Here, you will find some code with either a comment saying "To be implemented" or function(s) with the
@@ -122,7 +122,7 @@ implementation replaced with a single line throwing a runtime exception. Just im
 Note that code is often duplicated from one exercise to the another, so you should not look at the code for exercise 2 before doing exercise 1,
 since exercise 2 will often contain the solution to exercise one.
 
-## Looking at solutions
+## 해법 보기
 
 If you don't find the correct solution to an exercise, you can look at the corresponding `chaptername-solutions` module. You may run the solution
 test to verify that the solution is working.
