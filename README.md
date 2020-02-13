@@ -1,30 +1,25 @@
 This repository contains code, exercises and solutions from the book "The Joy of Kotlin".
 
-[![Build Status][badge-travis]][travis]
 
-[badge-travis]: https://travis-ci.org/fpinkotlin/fpinkotlin.png?branch=master
-[travis]: https://travis-ci.org/fpinkotlin/fpinkotlin
+## 소스 코드 실행 방법
 
-## How to use the project
+소스 코드는 다음과 같이 실행할 수 있습니다.
 
-The code is available as a Gradle project that may be used  by:
+- 터미널에서 그레이들 명령 실행(Running Gradle commands in a terminal)
+- Eclipse에서 임포트하기(Importing in Eclipse - with limitations)
+- 인텔리J에서 임포트하기(Importing in IntelliJ)
 
-- Running Gradle commands in a terminal
-- Importing in Eclipse (with limitations)
-- Importing in IntelliJ
+## 소스 코드 다운로드 방법 
 
-## Downloading the project
+소스 코드는 다음 두 가지 방법으로 다운로드할 수 있습니다.
 
-There are two ways to download this project. You may:
+- [코틀린을 다루는 기술]https://github.com/gilbutITbook/080208) 페이지에서 _Download ZIP_ 버튼을 클릭하하여 아카이브를 다운로드한 다음, 다운로드한 디렉토리에서 압축을 풉니다.
+- Git을 사용하여 소스 코드를 복제 할 수 있습니다. 이 방법을 사용하려면 PC에 Git이 설치되어 있어야 합니다.
 
-- Click on the _Download ZIP_ button on the [project page](https://github.com/pysaumont/fpinkotlin) to download a ZIP archive, then unzip it in the directory
-of your choice
-- Or you can clone the project using Git, in order to be able to update it easily when modifications or additions are made to the project. For this,
-you will need to have Git installed on your PC and use the URL available on this page in the _SSH clone URL_ area.
+## 인텔리J에서 임포트하기
 
-## Importing into IntelliJ
+IntelliJ는 Kotlin 개발을위한 최고의 지원과 완전한 Gradle 통합을 제공합니다. IntelliJ가없는 경우 [젯브레인스](https://www.jetbrains.com/idea/download) 사이트에서 커뮤니티 버전을 무료로 다운로드하세요. 무료 버전만으로도 이 책에 나온 예제를 사용하고 연습문제를 푸는 데 충분합니다.
 
-IntelliJ offers the best support for Kotlin development, plus full Gradle integration. If you don't have IntelliJ, just download the Community version from the [JetBrains site](https://www.jetbrains.com/idea/download). This free version has all you need for using the examples and solving the exercises in the book.
 
 To import the project into IntelliJ:
  
@@ -171,5 +166,5 @@ Code modules are generally named after the chapter titles, and not the chapter n
 
 ## Code example fro appendix A & B
 
-The code examples for appendix A & B are to be found in the [kotlingradle repository](https://github.com/pysaumont/kotlingradle)
+The code examples for appendix A & B are to be found in the [kotlingradle repository](https://github.com/pysaumont/fpinkotlin/tree/master/examples/kotlingradle)
 
