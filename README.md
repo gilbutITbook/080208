@@ -165,7 +165,7 @@ Code modules are generally named after the chapter titles, and not the chapter n
 
 * Chapter 14: fpinkotlin-commonproblems
 
-## Code example fro appendix A & B
+## 부록용 코드
 
 The code examples for appendix A & B are to be found in the
 [kotlingradle repository](https://github.com/pysaumont/fpinkotlin/tree/master/examples/kotlingradle)
