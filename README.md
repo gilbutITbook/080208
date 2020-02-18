@@ -2,7 +2,7 @@
 
 이 프로젝트는 <코틀린을 다루는 기술>의 소스 코드입니다.
 
-[영문판 소스코드](https://github.com/pysaumont/fpinkotlin)와는 다음과 같은 차이가 있습니다.
+[영문판 소스 코드](https://github.com/pysaumont/fpinkotlin)와는 다음과 같은 차이가 있습니다.
 
 - README.md 파일을 우리말로 작성했습니다.
 - 버전을 다음과 같이 바꿨습니다.
