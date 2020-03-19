@@ -1,0 +1,26 @@
+package com.fpinkotlin.makingprogramssafer.listing04
+
+import io.kotlintest.properties.Gen
+import io.kotlintest.properties.forAll
+import io.kotlintest.properties.generateInfiniteSequence
+import io.kotlintest.specs.StringSpec
+
+class PaymentTest: StringSpec() {
+
+    init {
+
+        "buyDonut" {
+            forAll(CreditCardGenerator(), Gen.choose(1, 100)) { creditCard: CreditCard, n: Int ->
+                val purchase = buyDonuts(n, creditCard)
+                purchase.payment.amount == Donut.price * n
+            }
+        }
+    }
+}
+
+class CreditCardGenerator : Gen<CreditCard> {
+
+    override fun constants(): Iterable<CreditCard> = listOf()
+
+    override fun random(): Sequence<CreditCard> = generateInfiniteSequence { CreditCard() }
+}

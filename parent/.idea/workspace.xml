@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1be320c6-1eab-4906-ba0b-0f89cee59c71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="wuwn8z9g" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Z1tG8B7Hv44e76mK6rRpWhcvpx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Kotlin.TreeBenchmarkKt">
+    <configuration name="TreeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.fpinkotlin.advancedtrees.exercise02.TreeTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":fpinkotlin-advancedtrees-solutions:cleanTest" />
+            <option value=":fpinkotlin-advancedtrees-solutions:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TreeBenchmarkKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="parent.fpinkotlin-advancedtrees-solutions.test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.fpinkotlin.advancedtrees.exercise02.TreeBenchmarkKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.TreeBenchmarkKt" />
+        <item itemvalue="Gradle.TreeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1be320c6-1eab-4906-ba0b-0f89cee59c71" name="Default Changelist" comment="" />
+      <created>1584018329824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584018329824</updated>
+      <workItem from="1584018331776" duration="23000" />
+      <workItem from="1584524874956" duration="3364000" />
+      <workItem from="1584532943501" duration="1233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="131" key="FileChooserDialogImpl" timestamp="1584582152994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="131" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584582152994" />
+    <state width="1358" height="250" key="GridCell.Tab.0.bottom" timestamp="1584534036676">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.0.bottom/0.23.1920.977/-1680.23.1680.1027/1920.23.1920.1057@0.23.1920.977" timestamp="1584534036676" />
+    <state width="1358" height="250" key="GridCell.Tab.0.center" timestamp="1584534036670">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.0.center/0.23.1920.977/-1680.23.1680.1027/1920.23.1920.1057@0.23.1920.977" timestamp="1584534036670" />
+    <state width="1358" height="250" key="GridCell.Tab.0.left" timestamp="1584534036668">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.0.left/0.23.1920.977/-1680.23.1680.1027/1920.23.1920.1057@0.23.1920.977" timestamp="1584534036668" />
+    <state width="1358" height="250" key="GridCell.Tab.0.right" timestamp="1584534036675">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.0.right/0.23.1920.977/-1680.23.1680.1027/1920.23.1920.1057@0.23.1920.977" timestamp="1584534036675" />
+    <state x="279" y="57" key="SettingsEditor" timestamp="1584582225760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584582225760" />
+    <state x="653" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584532943620">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="653" y="344" key="com.intellij.ide.util.TipDialog/0.23.1920.977/-1680.23.1680.1027/1920.23.1920.1057@0.23.1920.977" timestamp="1584532943620" />
+  </component>
+</project>

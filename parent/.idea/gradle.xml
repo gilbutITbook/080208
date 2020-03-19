@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/fpinkotlin-actors" />
+            <option value="$PROJECT_DIR$/fpinkotlin-advancedlisthandling-exercises" />
+            <option value="$PROJECT_DIR$/fpinkotlin-advancedlisthandling-solutions" />
+            <option value="$PROJECT_DIR$/fpinkotlin-advancedtrees-exercises" />
+            <option value="$PROJECT_DIR$/fpinkotlin-advancedtrees-solutions" />
+            <option value="$PROJECT_DIR$/fpinkotlin-common" />
+            <option value="$PROJECT_DIR$/fpinkotlin-common-test" />
+            <option value="$PROJECT_DIR$/fpinkotlin-commonproblems" />
+            <option value="$PROJECT_DIR$/fpinkotlin-effects-exercises" />
+            <option value="$PROJECT_DIR$/fpinkotlin-effects-solutions" />
+            <option value="$PROJECT_DIR$/fpinkotlin-functions-exercises" />
+            <option value="$PROJECT_DIR$/fpinkotlin-functions-solutions" />
+            <option value="$PROJECT_DIR$/fpinkotlin-handlingerrors-exercises" />
+            <option value="$PROJECT_DIR$/fpinkotlin-handlingerrors-solutions" />
+            <option value="$PROJECT_DIR$/fpinkotlin-lists-exercises" />
+            <option value="$PROJECT_DIR$/fpinkotlin-lists-solutions" />
+            <option value="$PROJECT_DIR$/fpinkotlin-makingprogramssafer" />
+            <option value="$PROJECT_DIR$/fpinkotlin-optionaldata-exercises" />
+            <option value="$PROJECT_DIR$/fpinkotlin-optionaldata-solutions" />
+            <option value="$PROJECT_DIR$/fpinkotlin-recursion-exercises" />
+            <option value="$PROJECT_DIR$/fpinkotlin-recursion-solutions" />
+            <option value="$PROJECT_DIR$/fpinkotlin-trees-exercises" />
+            <option value="$PROJECT_DIR$/fpinkotlin-trees-solutions" />
+            <option value="$PROJECT_DIR$/fpinkotlin-workingwithlaziness-exercises" />
+            <option value="$PROJECT_DIR$/fpinkotlin-workingwithlaziness-solutions" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4029dfa0-eeef-46f0-b16a-1ef2d760880f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10.트리를사용한데이터처리.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../10.트리를사용한데이터처리.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11.고급트리를활용해문제해결하기.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../11.고급트리를활용해문제해결하기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12.함수형입력출력.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../12.함수형입력출력.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../13.액터로변이상태공유.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../13.액터로변이상태공유.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../14.일반적인.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../14.일반적인.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2.코틀린함수형프로그래밍개요.md " beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../4.재귀 공재귀 메모화.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../6.선택적데이터처리하기.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../7.오류와예외처리하기.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../7.오류와예외처리하기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../8.고급리스트처리.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../8.고급리스트처리.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../A1.코틀린과자바혼용하기.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../A1.코틀린과자바혼용하기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../A2.코틀린에서프로퍼티기반테스트하기.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../A2.코틀린에서프로퍼티기반테스트하기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../List.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Option6.1.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pandocrun.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pandocrun.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../xxx.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../~$트코인 숙제.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../~$프로그램을더안전하게만들기.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../프로그램을 더 안전하게 만들기.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Xm0gUTRmiZjqLcPF7NqRomeXd0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Kotlin.com.mydomain.mymultipleproject.client.main.ClientKt">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mydomain.mymultipleproject.server.main.Server" />
+      <module name="MyMultipleProject.server.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mydomain.mymultipleproject.server.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.mydomain.mymultipleproject.client.main.ClientKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="MyMultipleProject.client.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.mydomain.mymultipleproject.client.main.ClientKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.com.mydomain.mymultipleproject.client.main.ClientKt" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4029dfa0-eeef-46f0-b16a-1ef2d760880f" name="Default Changelist" comment="" />
+      <created>1581636073537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581636073537</updated>
+      <workItem from="1581636075689" duration="587000" />
+      <workItem from="1581637380482" duration="777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2224" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581636629455">
+      <screen x="1920" y="23" width="1680" height="1027" />
+    </state>
+    <state x="2224" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1680.1027/0.23.1920.977@1920.23.1680.1027" timestamp="1581636629455" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1581636659174">
+      <screen x="1920" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/1920.23.1680.1027/0.23.1920.977@1920.23.1680.1027" timestamp="1581636659174" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1581636659174">
+      <screen x="1920" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.center/1920.23.1680.1027/0.23.1920.977@1920.23.1680.1027" timestamp="1581636659174" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1581636659173">
+      <screen x="1920" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.left/1920.23.1680.1027/0.23.1920.977@1920.23.1680.1027" timestamp="1581636659173" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1581636659174">
+      <screen x="1920" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.right/1920.23.1680.1027/0.23.1920.977@1920.23.1680.1027" timestamp="1581636659174" />
+    <state x="2386" y="172" width="747" height="729" key="find.popup" timestamp="1581636490023">
+      <screen x="1920" y="23" width="1680" height="1027" />
+    </state>
+    <state x="2386" y="172" width="747" height="729" key="find.popup/1920.23.1680.1027/0.23.1920.977@1920.23.1680.1027" timestamp="1581636490023" />
+  </component>
+</project>

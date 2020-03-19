@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fpinkotlin.lists.exercise01.ListTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-01T11:03:15" hostname="DESKTOP-7886AJI" time="0.276">
+  <properties/>
+  <testcase name="cons" classname="com.fpinkotlin.lists.exercise01.ListTest" time="0.276"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
